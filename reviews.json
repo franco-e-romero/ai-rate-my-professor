@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily White",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations, but exams were challenging."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Great at explaining concepts, but the pace was too fast."
+      },
+      {
+        "professor": "Dr. Ava Martinez",
+        "subject": "World History",
+        "stars": 5,
+        "review": "Incredibly knowledgeable and makes history come alive!"
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Very difficult course, and the professor's teaching style wasn't helpful."
+      },
+      {
+        "professor": "Dr. Sophia Davis",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Passionate about the subject and always available for help."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Interesting course, but grading was tough."
+      },
+      {
+        "professor": "Dr. Isabella Clark",
+        "subject": "Biology 101",
+        "stars": 3,
+        "review": "Lectures were a bit dry, but the material was well-organized."
+      },
+      {
+        "professor": "Dr. William Wilson",
+        "subject": "Philosophy 101",
+        "stars": 5,
+        "review": "Thought-provoking discussions and very approachable."
+      },
+      {
+        "professor": "Dr. Mia Garcia",
+        "subject": "Computer Science 101",
+        "stars": 4,
+        "review": "Clear instructions, but assignments were quite challenging."
+      },
+      {
+        "professor": "Dr. Daniel Brown",
+        "subject": "Physics II",
+        "stars": 2,
+        "review": "Difficult to follow lectures, and exams were very hard."
+      },
+      {
+        "professor": "Dr. Olivia Thomas",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Very engaging and makes the material relatable."
+      },
+      {
+        "professor": "Dr. James Taylor",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Explains well, but the course material is tough."
+      },
+      {
+        "professor": "Dr. Amelia Anderson",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Passionate about art, but the workload was heavy."
+      },
+      {
+        "professor": "Dr. Lucas Harris",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Very knowledgeable, but sometimes hard to understand."
+      },
+      {
+        "professor": "Dr. Grace Robinson",
+        "subject": "Chemistry 101",
+        "stars": 3,
+        "review": "Good lecturer, but labs were difficult."
+      },
+      {
+        "professor": "Dr. Henry King",
+        "subject": "Ethics",
+        "stars": 5,
+        "review": "Inspiring and always encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Chloe Walker",
+        "subject": "Human Anatomy",
+        "stars": 4,
+        "review": "Detailed lectures, but the tests were tough."
+      },
+      {
+        "professor": "Dr. Jack Hall",
+        "subject": "Finance",
+        "stars": 2,
+        "review": "Hard to understand and very strict grading."
+      },
+      {
+        "professor": "Dr. Lily Young",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate and makes the course material very engaging."
+      },
+      {
+        "professor": "Dr. Benjamin Scott",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Clear lectures, but assignments were time-consuming."
+      }
+    ]
+  }
+  
